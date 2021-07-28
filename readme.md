@@ -1,4 +1,4 @@
-#Cristian's Algorithm
+# Cristian's Algorithm
 
 The Cristian algorithm is implemented in python code designing a network of client server model. The server listens to port 9000 and waits for client to request the Server time. 
 The server then returns its time to Client. The parameters are recorded and delay, Server time are taken into account to calculate the synxhronized time for Updating the client Computer. 
