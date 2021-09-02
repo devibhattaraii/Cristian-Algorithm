@@ -26,7 +26,7 @@ def startTimeServer():
 
     # used to create socket objects (required on both server
     # as well as client ends to create sockets)
-    node = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    node = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
     print("       ")
 
     print(
